@@ -1,0 +1,4 @@
+model_year: 2009
+unsupported_commands_by_ecu:
+  "624":
+  - 624.5A4.220201
