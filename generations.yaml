@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_M-Class"
+
+generations:
+  - name: "First Generation (W163)"
+    start_year: 1997
+    end_year: 2005
+    description: "The first M-Class, with a body-on-frame chassis."
+  - name: "Second Generation (W164)"
+    start_year: 2005
+    end_year: 2011
+    description: "A unibody SUV with gasoline, BlueTEC diesel and hybrid versions."
+  - name: "Third Generation (W166)"
+    start_year: 2011
+    end_year: 2015
+    description: "Renamed the GLE-Class in 2015."
